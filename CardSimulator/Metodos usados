@@ -1,0 +1,26 @@
+
+
+funçoes ...
+
+
+
+
+
+struct card{
+    char nome[25];
+    int id;
+    int atk;
+    int def;
+};
+
+
+//variavel usandoa estrutura card   nome:card_use
+struct card card_use;
+
+
+recebendo dados ...
+//   scanf("%i",&card_use.id);
+
+testando dados...
+//   printf("card id :%i",card_use.id);
+
