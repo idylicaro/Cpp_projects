@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1557583114 source:c:\users\icaro\documents\github\p2_project_grupo_3\caixa_eletrônico\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"fuctions.h"
+
+1557583114 c:\users\icaro\documents\github\p2_project_grupo_3\caixa_eletrônico\fuctions.h
+
+1559491573 source:c:\users\alucard\documents\github\p2_project_grupo_3\caixa_eletrônico\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"fuctions.h"
+
+1559646019 c:\users\alucard\documents\github\p2_project_grupo_3\caixa_eletrônico\fuctions.h
+
+1560078567 source:c:\users\allucard.se\documents\p2_project_grupo_3\caixa_eletrônico\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"fuctions.h"
+
+1560078099 c:\users\allucard.se\documents\p2_project_grupo_3\caixa_eletrônico\fuctions.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
