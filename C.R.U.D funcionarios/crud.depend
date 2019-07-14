@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1563134075 source:c:\users\alucard\documents\developer\7\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<stdio.h>
+	"backend.h"
+
+1563134330 c:\users\alucard\documents\developer\7\backend.h
+	<iostream>
+	<fstream>
+	<iomanip>
+
+1563134482 source:c:\users\alucard\documents\github\my_projects\c.r.u.d funcionarios\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<stdio.h>
+	"backend.h"
+
+1563134330 c:\users\alucard\documents\github\my_projects\c.r.u.d funcionarios\backend.h
+	<iostream>
+	<fstream>
+	<iomanip>
+
