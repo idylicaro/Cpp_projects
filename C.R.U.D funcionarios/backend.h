@@ -14,7 +14,7 @@ struct funcionario {
 
 void iniciaArchive(){
     fstream  archive;
-    archive.open(nameArchive,ios::out|ios::app);
+    archive.open(nameArchive,ios::out);
 
     if(archive.fail()){
         cout << "ALGUM PROBLEMA NO SEU ARQUIVO!!!"<<endl;
