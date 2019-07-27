@@ -3,13 +3,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <iomanip>
+#include <conio2.h>
 
 #include "backend.h" //biblioteca  criada para esse programa
+
 using namespace std;
 
 
 int main()
-{
+{   system("color F0");
     short int opction;
 
     do{
@@ -59,5 +61,6 @@ int main()
     }while(opction!=5);
     return 0;
 }
+
 
 
