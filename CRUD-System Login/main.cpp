@@ -3,7 +3,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <iomanip>
-#include <conio2.h>
 
 #include "backend.h" //biblioteca  criada para esse programa
 

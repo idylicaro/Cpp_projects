@@ -32,6 +32,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="GUI.h" />
+		<Unit filename="backend.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />
