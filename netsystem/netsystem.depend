@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1563668406 source:c:\users\allucard.se\documents\netsystem\main.cpp
+	<iostream>
+	<stdio.h>
+	<string.h>
+	<locale>
+
