@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1564235944 source:c:\users\alucard\documents\my_projects\crud-system login\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<iomanip>
+	"backend.h"
+
+1564236196 c:\users\alucard\documents\my_projects\crud-system login\backend.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<iomanip>
+	<string.h>
+
