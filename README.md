@@ -12,3 +12,6 @@ sorteia 26 pessoas em grupos!
 Simulação de software de um caixa eletrônico, com recursos de programação limitados, por este motivo n utilizando arquivos.txt
 pois esse projeto foi motivado pela universidade!
 
+3-projeto(loginProjeto):
+Fins educartivos tendo a funcionalidade de cadastrar alguem , e ter validação de acesso.
+
