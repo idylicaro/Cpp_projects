@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1562031233 source:c:\users\alucard\documents\developer\projetlogin\loginprojeto\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<errno.h>
+	"archiveBasic.h"
+	"loginBackand.h"
+	"cadastroBackand.h"
+
+1561927215 c:\users\alucard\documents\developer\projetlogin\loginprojeto\archivebasic.h
+	<iostream>
+	<string>
+	<fstream>
+
+1562031172 c:\users\alucard\documents\developer\projetlogin\loginprojeto\loginbackand.h
+	<fstream>
+	<errno.h>
+	<string.h>
+	<iomanip>
+	<cstdlib>
+
+1562031172 c:\users\alucard\documents\developer\projetlogin\loginprojeto\cadastrobackand.h
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556158996 source:c:\users\icaro\documents\github\functionandarchivemelearning\manipuladordearquivos\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
